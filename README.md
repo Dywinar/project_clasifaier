@@ -17,4 +17,4 @@ messages — количество sms-сообщений,
 mb_used — израсходованный интернет-трафик в Мб,
 is_ultra — каким тарифом пользовался в течение месяца («Ультра» — 1, «Смарт» — 0).
 
-https://drive.google.com/file/d/1VNj6zRLBprZHIetxoRtR7rhgmOIBrPzD/view?usp=sharing(ссылка на данные)
+https://drive.google.com/file/d/1VNj6zRLBprZHIetxoRtR7rhgmOIBrPzD/view?usp=sharing (ссылка на данные)
